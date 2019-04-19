@@ -1,6 +1,6 @@
-# Flask Mailroom Application
+# Bootstrap Flask Mailroom Application
 
-Running at [https://tranquil-shore-34446.herokuapp.com/](https://tranquil-shore-34446.herokuapp.com/).
+Running at [https://protected-depths-83696.herokuapp.com/](https://protected-depths-83696.herokuapp.com/).
 
 ## Your Task
 
